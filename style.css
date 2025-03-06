@@ -265,6 +265,9 @@ footer {
         flex-direction: column;
         text-align: center;
     }
+    .cta-button {
+        color: black;
+    }
     
     nav {
         margin-top: 1rem;
